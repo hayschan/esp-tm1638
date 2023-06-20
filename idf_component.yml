@@ -1,0 +1,10 @@
+version: "1.0.0"
+description: ESP IDF component for controlling TM1638 LCD 7-Segment display
+url: https://github.com/hayschan/esp-tm1638
+issues: https://github.com/hayschan/esp-tm1638/issues
+repository: https://github.com/hayschan/esp-tm1638.git
+maintainers: Hays Chan <hayschan@haysc.tech>
+dependencies:
+  ## Required IDF version
+  idf:
+    version: ">=4.0"
